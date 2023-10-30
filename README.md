@@ -12,3 +12,32 @@ The data is from 90,189 players that installed the game while the A/B test was r
 * sum_gamerounds: the number of game rounds played by the player during the first week after installation.
 * retention_1: did the player come back and play 1 day after installing?
 * retention_7: did the player come back and play 7 days after installing?
+
+  ### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* A/B Testing
+
+### A/B Testing Steps
+
+* Understand the business problem and data
+* Detect and resolve problems in the data. Check for missing values, outliers, and unexpected values.
+* Look at summary statistics and plots. This will help you understand the distribution of your data and identify any potential problems.
+* Apply hypothesis testing and check assumptions. Make sure that your data meets the assumptions of the statistical test you plan to use.
+* Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test). Choose the appropriate statistical test to compare the two groups.
+* Evaluate the results. Calculate the p-value and interpret the results of the statistical test.
+* Make inferences. What can you conclude about the impact of the change you tested?
+
+### Technologies
+* Python
+
+### Librariess Used
+* Matplotlib
+* Numpy
+* Pandas
+* Scipy
+* Seaborn
+
+### Results
+
